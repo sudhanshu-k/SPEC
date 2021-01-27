@@ -1,21 +1,28 @@
-body{
+#sudhanshu{
     background-color:black;
-    padding: 25px 100px 25px 100px;
+    padding: 4% 7% 4% 7%;
     color: whitesmoke;
-}
-
-h1{
-    text-align:center;
-    text-decoration:overline;
-}
-
-.sabEk{
-    padding: 30px 30px 30px 30px;
-}
-
-.info{
-    padding: 10px;
-}
+  
+  }
+  
+  h1{
+      text-align:center;
+      text-decoration:overline;
+  }
+  
+  .sabEk{
+      padding: 2.5% 2.5% 2.5% 2.5%;
+  }
+  
+  .info{
+      padding: 4% 0% 0% 4%;
+  }
+  
+  .imgPro{
+      height:250px; width:90% ; border: 1px solid #560056; 
+      border-radius: 2%; display: block;
+      margin-left: auto; margin-right: auto;
+  }
 
 
 
